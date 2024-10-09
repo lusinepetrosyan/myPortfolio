@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.svelte-kit
+!.svelte-kit/tsconfig.json
+/package
+.idea/
+/build
+/cypress/videos
+/cypress/screenshots
+/cypress/results
